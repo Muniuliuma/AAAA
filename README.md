@@ -1,4 +1,4 @@
 AAAA
 ====
 
-This is just for study
+This is just for study.
